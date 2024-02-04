@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Kesharwani</h1>
-<h3 >AI/ML Developer</h3>
+<h1>Hi 👋, I'm Adarsh Kesharwani</h1>
 
 <p align="left"> <a href="https://twitter.com/adarshhk9" target="blank"><img src="https://img.shields.io/twitter/follow/adarshhk9?logo=twitter&style=for-the-badge" alt="adarshhk9" /></a> </p>
 
