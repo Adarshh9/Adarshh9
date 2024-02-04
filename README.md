@@ -7,15 +7,22 @@
 
 - 🌱 I’m currently learning **Computer Vision , GANs.**
 
+- 👯 I’m looking to collaborate on **AI related stuff.**
+
+- 🤝 I’m looking for help with **expert guidance with mentoring.**
+
 - 💬 Ask me about **AI.**
 
 - 📫 How to reach me **akesherwani900@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adarshhk9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshhk9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/adarsh-kesharwani-4b2146261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adarsh-kesharwani-4b2146261" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarsh 926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarsh 926" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/6U9VxBMJfW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6U9VxBMJfW" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
