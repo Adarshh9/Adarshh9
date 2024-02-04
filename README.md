@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kesharwani</h1>
 <h3 align="center">AI/ML Developer</h3>
 
+<p align="left"> <a href="https://twitter.com/adarshhk9" target="blank"><img src="https://img.shields.io/twitter/follow/adarshhk9?logo=twitter&style=for-the-badge" alt="adarshhk9" /></a> </p>
+
 - 🔭 I’m currently working on **ADVerse.**
 
 - 🌱 I’m currently learning **Computer Vision , GANs.**
