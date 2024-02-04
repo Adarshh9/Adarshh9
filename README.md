@@ -8,6 +8,7 @@
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
 - 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)**
+- ⚡ Fun fact **processing, hang on.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
