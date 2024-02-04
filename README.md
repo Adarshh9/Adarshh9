@@ -1,19 +1,12 @@
 <h1>Hi 👋, I'm Adarsh Kesharwani</h1>
 
-<p align="left"> <a href="https://twitter.com/adarshhk9" target="blank"><img src="https://img.shields.io/twitter/follow/adarshhk9?logo=twitter&style=for-the-badge" alt="adarshhk9" /></a> </p>
 
 - 🔭 I’m currently working on **ADVerse.**
-
 - 🌱 I’m currently learning **Computer Vision , GANs.**
-
 - 👯 I’m looking to collaborate on **AI related stuff.**
-
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
-
 - 💬 Ask me about **AI.**
-
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
-
 - 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
