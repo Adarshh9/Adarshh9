@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kesharwani</h1>
-<h3 align="center">AI/ML Developer</h3>
+<h3 >AI/ML Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/adarshhk9" target="blank"><img src="https://img.shields.io/twitter/follow/adarshhk9?logo=twitter&style=for-the-badge" alt="adarshhk9" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
 
-- 📄 Know about my experiences [Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)
+- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
