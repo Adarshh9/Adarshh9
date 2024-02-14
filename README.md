@@ -8,7 +8,7 @@
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
 - 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)**
-- ⚡ Fun fact **sleep at 12 & up at 5.**
+- ⚡ Fun fact **I use chatgpt, bard ,blackbox at a time !**
 
 <h3 align="left">Wanna connect ?</h3>
 <p align="left">
