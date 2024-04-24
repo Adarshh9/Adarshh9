@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
-- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1AiyTmJk3PyrQbr9egNAW203UfdYfx6X_/view?usp=sharing)**
+- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/16LVLNzqlZ4YST7yKr29XkO5thqWPPSpP/view?usp=drive_link)**
 - ⚡ Fun fact **I use chatgpt, gemini, phind at a time !**
 
 <h3 align="left">Wanna connect ?</h3>
