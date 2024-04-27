@@ -1,8 +1,8 @@
 <h1>Adarsh here 💁‍♂</h1>
 
 
-- 🔭 I’m currently working on **MLOps Practices.**
-- 🌱 I’m currently learning **Computer Vision , GANs.**
+- 🔭 I’m currently working on **Own Portfolio.**
+- 🌱 I’m currently learning **MLOps.**
 - 👯 I’m looking to collaborate on **AI related stuff.**
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
