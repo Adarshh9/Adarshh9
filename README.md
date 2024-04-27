@@ -1,7 +1,7 @@
 <h1>About me 💁‍♂️</h1>
 
 
-- 🔭 I’m currently working on **ADVerse.**
+- 🔭 I’m currently working on **MLOps Practices.**
 - 🌱 I’m currently learning **Computer Vision , GANs.**
 - 👯 I’m looking to collaborate on **AI related stuff.**
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
