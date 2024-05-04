@@ -1,14 +1,14 @@
 <h1>Adarsh here 💁‍♂</h1>
 
 
-- 🔭 I’m currently working on **Own Portfolio.**
-- 🌱 I’m currently learning **MLOps.**
+- 🔭 I’m currently working on **MLOps.**
 - 👯 I’m looking to collaborate on **AI related stuff.**
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **[mail](akesherwani900@gmail.com)**
-- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/16LVLNzqlZ4YST7yKr29XkO5thqWPPSpP/view?usp=drive_link)**
+- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1FPtUNrWncj8ZtWVeGxrXjEt4lcMv2DUg/view?usp=drive_link)**
 - ⚡ Fun fact **I use chatgpt, gemini, phind at a time !**
+- Adarsh's Portfolio ,Take a look **[adarshh.me](https://adarshh.me)**
 
 <h3 align="left">Wanna connect ?</h3>
 <p align="left">
