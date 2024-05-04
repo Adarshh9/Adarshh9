@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **AI related stuff.**
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
-- 📫 How to reach me **[mail](akesherwani900@gmail.com)**
+- 📫 How to reach me **akesherwani900@gmail.com**
 - 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1FPtUNrWncj8ZtWVeGxrXjEt4lcMv2DUg/view?usp=drive_link)**
 - ⚡ Fun fact **I use chatgpt, gemini, phind at a time !**
 - Adarsh's Portfolio ,Take a look **[adarshh.me](https://adarshh.me)**
