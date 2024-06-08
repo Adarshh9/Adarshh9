@@ -12,10 +12,10 @@
 
 <h3 align="left">Wanna connect ?</h3>
 <p align="left">
-<a href="https://twitter.com/adarshhk9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshhk9" height="30" width="40" /></a>
+<a href="https://twitter.com/adarshhk9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshhme" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/adarsh-kesharwani-4b2146261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adarsh-kesharwani-4b2146261" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/6U9VxBMJfW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6U9VxBMJfW" height="30" width="40" /></a>
-<a href="https://instagram.com/adarshh.k9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://instagram.com/adarshh.k9]" height="30" width="40" /></a>
+<a href="https://instagram.com/adarshh.k9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://instagram.com/adarshh.me]" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarsh 926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarsh 926" height="30" width="40" /></a>
 </p>
 
