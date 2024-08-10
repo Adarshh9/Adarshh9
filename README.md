@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **akesherwani900@gmail.com**
-- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1U7Gf95iGy6AHV2cEAbWeLBFbsk4LxPPe/view?usp=sharing)**
+- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1tOTm-bSbckFmeIZU00_dxwxXZZcamBnw/view?usp=drive_link)**
 - Adarsh's Portfolio ,Take a look **[adarshh.me](https://adarshh.me)**
 
 <h3 align="left">Wanna connect ?</h3>
