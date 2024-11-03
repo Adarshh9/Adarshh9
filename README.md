@@ -1,4 +1,4 @@
-<h1>Adarsh here !!</h1>
+<h1>Adarshh Dot Me !!</h1>
 
 
 - 🔭 I’m currently working on **MLOps.**
@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **expert guidance with mentoring.**
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **akesherwani900@gmail.com**
-- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1tOTm-bSbckFmeIZU00_dxwxXZZcamBnw/view?usp=drive_link)**
+- 📄 Know about my experiences **[Adarsh's Resume](https://drive.google.com/file/d/1uTZE_Pz_xfssqak4tXOg-fS_2_dyh0SX/view?usp=sharing)**
 - Adarsh's Portfolio ,Take a look **[adarshh.me](https://adarshh.me)**
 
 <h3 align="left">Wanna connect ?</h3>
