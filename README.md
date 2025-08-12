@@ -1,7 +1,7 @@
 <h1>Adarshh Dot Me !!</h1>
 
 
-- 🔭 I’m currently working on **Diffusers.**
+- 🔭 I’m currently working on **Taxonomy-Aware Capsule Networks.**
 - 👯 I’m looking to collaborate on **AI related stuff.**
 - 💬 Ask me about **AI.**
 - 📫 How to reach me **akesherwani900@gmail.com**
