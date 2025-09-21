@@ -9,7 +9,7 @@
 ---
 
 ## About me
-Hi — I'm **Adarsh Kesharwani**. I build and research applied AI — currently focused on **taxonomy-aware capsule networks (TaxoCapsNet)** and related ML systems. I enjoy turning tough research ideas into working code, experimenting with model architectures, and shipping small, useful tools. You’ll find a mix of research implementations, datathon projects, and useful engineering utilities across my repos.
+Hi!! I'm **Adarsh Kesharwani**. I build and research applied AI, currently focused on **taxonomy-aware capsule networks (TaxoCapsNet)** and related ML systems. I enjoy turning tough research ideas into working code, experimenting with model architectures, and shipping small, useful tools. You’ll find a mix of research implementations, datathon projects, and useful engineering utilities across my repos.
 
 ---
 
