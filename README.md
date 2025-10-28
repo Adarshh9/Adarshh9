@@ -57,7 +57,7 @@ Python · PyTorch · TensorFlow · NumPy · Docker · Flask · FastAPI · COLMAP
 - Kaggle: https://www.kaggle.com/adarsh926  
 - Medium: https://medium.com/@adarshhme  
 - Twitter: https://twitter.com/adarshhme  
-- Resume: https://drive.google.com/file/d/1kXu4FWxb65oslukA0HddsnwzJ_Se0paZ/view?usp=drive_link
+- Resume: [Here](https://drive.google.com/file/d/1WizkSClCVPj2Avm2sHD5sfGBUIDWXupG/view?usp=sharing)
 
 ---
 
