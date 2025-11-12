@@ -3,7 +3,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Adarshh9?label=Follow&style=social)](https://github.com/Adarshh9)
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://adarshhme.vercel.app/)
-[![Resume](https://img.shields.io/badge/resume-download-green)](https://drive.google.com/file/d/1WizkSClCVPj2Avm2sHD5sfGBUIDWXupG/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/resume-download-green)](https://drive.google.com/file/d/1pzNeoDko7Ko3KxlwEy5uWY0JjP5RclYr/view)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-blue)](https://www.linkedin.com/in/adarsh-kesharwani-4b2146261)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adarshhme?style=social)](https://twitter.com/adarshhme)
 
@@ -69,7 +69,7 @@ I enjoy bridging the gap between **research experiments** and **real-world deplo
 📊 **Kaggle:** [kaggle.com/adarsh926](https://www.kaggle.com/adarsh926)  
 ✍️ **Medium:** [medium.com/@adarshhme](https://medium.com/@adarshhme)  
 🐦 **Twitter:** [twitter.com/adarshhme](https://twitter.com/adarshhme)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1WizkSClCVPj2Avm2sHD5sfGBUIDWXupG/view?usp=sharing)
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1pzNeoDko7Ko3KxlwEy5uWY0JjP5RclYr/view)
 
 ---
 
