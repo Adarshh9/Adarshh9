@@ -69,7 +69,6 @@ I enjoy bridging the gap between **research experiments** and **real-world deplo
 📊 **Kaggle:** [kaggle.com/adarsh926](https://www.kaggle.com/adarsh926)  
 ✍️ **Medium:** [medium.com/@adarshhme](https://medium.com/@adarshhme)  
 🐦 **Twitter:** [twitter.com/adarshhme](https://twitter.com/adarshhme)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1pzNeoDko7Ko3KxlwEy5uWY0JjP5RclYr/view)
 
 ---
 
